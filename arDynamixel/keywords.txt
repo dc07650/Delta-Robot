@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For arDynamixel
+####################################### 
+# Class
+#######################################
+
+arDynamixel	KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+
+traceLoad	KEYWORD2
+traceTemp	KEYWORD2
+tracePos	KEYWORD2
+traceID		KEYWORD2
+setnewId	KEYWORD2
+ledServo	KEYWORD2
+offServo	KEYWORD2
+speedPacket	KEYWORD2
+posPacket	KEYWORD2
+dynaControl	KEYWORD2
+
+#######################################
+# Constants
+#######################################
+ 
+DSPEED			LITERAL1

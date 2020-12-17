@@ -1,0 +1,18 @@
+Ver 1.0
+	- Created library for utilizable dynamixel control function based on Dual-plex Software Serial
+	- Added functions of
+		[Control]
+		 - position
+		 - speed
+		 - torque
+		 - led
+		[Setting]
+		 - set ID
+		[Reading]
+		 - ID
+		 - Position
+		 - Temperature
+		 - Load
+
+Ver 1.1
+	- Added a sync write instruction based control of dynamixel for asyncronous position and speed control
